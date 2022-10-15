@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sergio-prog
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me in Discord: 
 
 <!---
 Sergio-prog/Sergio-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
