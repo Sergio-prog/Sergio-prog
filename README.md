@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sergio-prog
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Python Software Development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me in Discord: Fotex#7254, Telegram: @fotex24
 
