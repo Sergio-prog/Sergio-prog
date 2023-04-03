@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sergio-prog
-- 👀 I’m interested in Python Software Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python Software Development, Blockchain Development
+- 🌱 I’m currently learning Python, Solidity
 - 📫 How to reach me in Discord: Fotex#7254, Telegram: @fotex24
 
 <!---
