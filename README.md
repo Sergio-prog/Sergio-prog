@@ -9,4 +9,4 @@ NodeJS/Python frontend and backend | Web3 builder
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sergio-prog&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=Sergio-prog&show_icons=true&theme=dark&hide_border=true)
