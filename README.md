@@ -3,7 +3,7 @@
 NodeJS/Python frontend and backend | Web3 builder
 
 - 💼 Backend @ [Finup](https://www.finup.io/en) (fintech, virtual cards)
-- 🏆 6x hackathon winner (5 Ethereum, 1 TON, 1 Solana)
+- 🏆 7x hackathon winner (5 Ethereum, 1 TON, 1 Solana)
 - 🌐 [serhiifotex.dev](https://serhiifotex.dev) · [X](https://x.com/0xFotex) · [Telegram](https://t.me/fotex_24)
 - 📄 CV: [PDF](https://serhiifotex.dev/cv.pdf)
 
